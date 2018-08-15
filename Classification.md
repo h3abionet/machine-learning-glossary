@@ -1,1 +1,2 @@
 
+Classification is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs, based on a training set of data containing observations (or instances) whose category membership is already known. It is a computational means for reducing the amount of information. The input is information-rich sequence data, and the output may be a single number or, in the simplest case, a yes or no representing a choice between  categories. Example includes the classification of unlabelled DNA sequences using previously labeled sequences.
