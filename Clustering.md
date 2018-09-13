@@ -1,4 +1,4 @@
-## First, what is Clustering
+## First, what is Clustering?
 **Clustering** consists of discovering the inherent groupings in a dataset, *i.e* partitioning a set of elements into subsets, called clusters, according to the differences and similarties between them without any prior knowledge about the data structure. <br/>
 A good clustering result maximises homogeneity between intra group and  separability between the different groups. 
 
