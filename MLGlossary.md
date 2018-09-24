@@ -9,7 +9,7 @@ Numerous ML techniques can handle many problems in bioinformatics. Logic program
 
 Finally, ML can also be used for data mining. Important knowledge, relationships and correlation may remain hidden to human examination in the data. Using ML approaches to extract the (possibly) hidden information is time and cost effective, compared to manual extraction by humans.
 
-# **Machine learning categories** #
+# **Machine learning taxonomy** #
 Machine learning algorithms may have different end goals that determine how the method works. 
 Four main categories are: 
 
